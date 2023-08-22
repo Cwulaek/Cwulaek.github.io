@@ -13,6 +13,12 @@ For Codemon, here's some description:
  5. To play and enjoy the game, please walk into the nearest house(unless I've made the story about the truck).
     Using `wsad` to move the player. Using `j` to cancel.
 
+For ISOBALL..
+
+For Mαths II..
+
+For Magic Cube..
+
 These projects had not been made so well.
 
 Please make some suggestions about them.
