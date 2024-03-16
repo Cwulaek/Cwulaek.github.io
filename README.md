@@ -28,6 +28,8 @@ For ISOBALL, here's some description:
  5. Use click/r to run. Use click/\` to select eraser.
  6. On build mode(selected in main page), use 9/0 to select the doors, and use - to select the teleporter.
 
+For Dwarf's War..
+
 For Mαths II..
 
 For Magic Cube..
